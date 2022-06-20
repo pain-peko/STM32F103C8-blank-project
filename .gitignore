@@ -1,1 +1,3 @@
 Debug/*
+.settings/language.settings.xml
+STM32F103C8 blank project Debug.launch
